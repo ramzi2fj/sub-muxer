@@ -23,7 +23,7 @@ To give custom name to file send it with url seperated with |
 
 <b>Note : </b><i>Please note that only english type fonts are supported in hardmux other scripts will be shown as empty blocks on the video!</i>
 
-<a href="https://github.com/mohdsabahat/sub-muxer">Repo URL</a>"""
+<a href="https://github.com/ramzi2fj/sub-muxer">Repo URL</a>"""
 
     NO_AUTH_USER = "You are not authorised to use this bot.\nContact the bot owner!"
     DOWNLOAD_SUCCESS = """File downloaded successfully!
