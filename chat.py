@@ -7,7 +7,7 @@ class Chat:
 
 /help for more details..
 
-Credits :- @mohdsabahat
+Credits :- @TroIIer
     """
 
     HELP_USER = "??"
